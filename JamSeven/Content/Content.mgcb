@@ -1,0 +1,75 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/Windows
+/intermediateDir:obj/Windows
+/platform:Windows
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin congrats.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:congrats.wav
+
+#begin game.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:game.wav
+
+#begin go.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:go.wav
+
+#begin ready.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:ready.wav
+
+#begin suddendeath.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:suddendeath.wav
+
+#begin playerjoin.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:playerjoin.wav
+
+#begin jump.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:jump.wav
+
+#begin field.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:field.wav
+
+#begin combat.wav
+/importer:WavImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:combat.wav
+
+#begin resultslide.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:resultslide.wav
+

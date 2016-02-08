@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Andrew/Documents/Visual Studio 2013/Projects/JamSeven/JamSeven/Content/congrats.wav</File>
+    <File>C:/Users/Andrew/Documents/Visual Studio 2013/Projects/JamSeven/JamSeven/Content/game.wav</File>
+    <File>C:/Users/Andrew/Documents/Visual Studio 2013/Projects/JamSeven/JamSeven/Content/go.wav</File>
+    <File>C:/Users/Andrew/Documents/Visual Studio 2013/Projects/JamSeven/JamSeven/Content/ready.wav</File>
+    <File>C:/Users/Andrew/Documents/Visual Studio 2013/Projects/JamSeven/JamSeven/Content/suddendeath.wav</File>
+    <File>C:/Users/Andrew/Documents/Visual Studio 2013/Projects/JamSeven/JamSeven/Content/playerjoin.wav</File>
+    <File>C:/Users/Andrew/Documents/Visual Studio 2013/Projects/JamSeven/JamSeven/Content/jump.wav</File>
+    <File>C:/Users/Andrew/Documents/Visual Studio 2013/Projects/JamSeven/JamSeven/Content/field.wav</File>
+    <File>C:/Users/Andrew/Documents/Visual Studio 2013/Projects/JamSeven/JamSeven/Content/combat.wav</File>
+    <File>C:/Users/Andrew/Documents/Visual Studio 2013/Projects/JamSeven/JamSeven/Content/resultslide.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
